@@ -1,1 +1,68 @@
- !
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: poppins;
+}
+
+section {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.container {
+    width: 1080px;
+    margin: auto;
+}
+
+.display-flex {
+    display: flex;
+}
+
+/*Header Area */
+
+.header-left {
+    width: 50%;
+    margin-top: 50px;
+}
+
+.header-right {
+    width: 50%;
+}
+
+.header-text {
+    border-left: 5px solid #FF5959;
+    padding-left: 10px;
+}
+
+.header-text span {
+    color: #FFAD5A;
+}
+
+.header-text h1 {
+    font-family: 'Yeseva One', cursive;
+    font-size: 45px;
+}
+
+.header-subtext {
+    width: 80%;
+}
+
+.header-subtext p {
+    font-family: poppins;
+    font-size: 18px;
+}
+
+.default-btn {
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 12px;
+    color: #fff;
+    border-radius: 3px;
+    font-size: 12px;
+}
+
+.header-right img {
+    width: 100%;
+}
+
+/*Mi
